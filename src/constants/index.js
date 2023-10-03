@@ -182,7 +182,7 @@ const testimonials = [
     name: 'Prateek Goel',
     designation: 'SWE',
     company: 'Tellius',
-    image: '../../public/testimonials_images/prateek.jpg'
+    image: '../../testimonials_images/prateek.jpg'
   },
   {
     testimonial:
@@ -190,7 +190,7 @@ const testimonials = [
     name: 'Atharva',
     designation: 'SDE Intern',
     company: 'Afour Technologies',
-    image: '../../public/testimonials_images/atharva.jpg'
+    image: '../../testimonials_images/atharva.jpg'
   },
   {
     testimonial:
@@ -198,7 +198,7 @@ const testimonials = [
     name: 'Soutik Dey',
     designation: 'Competitve Programmer',
     company: null,
-    image: '../../public/testimonials_images/soutik.jpg'
+    image: '../../testimonials_images/soutik.jpg'
   }
 ];
 
