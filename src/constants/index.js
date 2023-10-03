@@ -182,7 +182,7 @@ const testimonials = [
     name: 'Prateek Goel',
     designation: 'SWE',
     company: 'Tellius',
-    image: '../../public/testimonials_images/prateek.jpg'
+    image: '../../testimonials_images/prateek.jpg'
   },
   {
     testimonial:
