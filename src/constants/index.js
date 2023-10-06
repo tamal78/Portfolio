@@ -49,7 +49,7 @@ export const navLinks = [
   {
     id: 'resume',
     title: 'Resume',
-    link: 'https://www.linkedin.com/in/tamal78/' // change to google drive resume link
+    link: 'https://drive.google.com/file/d/189_v9yUSWFqsapoz5ilKGRdxuKyhIDbt/view?usp=sharing' 
   }
 ];
 
